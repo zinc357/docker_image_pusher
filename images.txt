@@ -1,2 +1,7 @@
 alpine
 openjdk:8u102-jdk
+nginx
+nacos
+minio
+redis
+mysql
