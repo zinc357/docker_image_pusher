@@ -2,6 +2,6 @@ alpine
 openjdk:8u102-jdk
 nginx
 nacos/nacos-server
-minio
+bitnami/minio
 redis
 mysql
