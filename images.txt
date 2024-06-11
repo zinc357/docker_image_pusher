@@ -1,1 +1,2 @@
 alpine
+openjdk:8u102-jdk
