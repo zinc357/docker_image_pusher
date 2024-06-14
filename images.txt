@@ -5,3 +5,4 @@ nacos/nacos-server
 bitnami/minio
 redis
 mysql
+postgres:16
