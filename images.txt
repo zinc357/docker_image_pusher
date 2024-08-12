@@ -6,3 +6,4 @@ bitnami/minio
 redis
 mysql
 postgres:16
+python:3.11.9
