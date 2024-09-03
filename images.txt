@@ -4,6 +4,7 @@ nginx
 nacos/nacos-server
 bitnami/minio
 redis
-mysql
+mysql:8
 postgres:16
 python:3.11.9
+openjdk:17
