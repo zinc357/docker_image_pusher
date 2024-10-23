@@ -1,3 +1,4 @@
+--platform=linux/arm64/v8 openjdk:8u342-jdk
 alpine
 openjdk:8u102-jdk
 nginx
