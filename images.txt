@@ -8,3 +8,4 @@ mysql:8
 postgres:16
 python:3.11.9
 openjdk:17
+--platform=linux/arm64 openjdk:8u102-jdk
