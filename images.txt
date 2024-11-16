@@ -12,3 +12,4 @@ postgres:16
 python:3.11.9
 openjdk:17
 keymetrics/pm2:18-alpine
+zinc1008/easymedia
