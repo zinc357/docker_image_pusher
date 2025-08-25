@@ -4,6 +4,7 @@ alpine
 openjdk:8u102-jdk
 nginx
 nacos/nacos-server
+nacos/nacos-server:v2.0.4
 minio/minio
 redis
 mysql:8
@@ -15,3 +16,4 @@ openjdk:17
 keymetrics/pm2:18-alpine
 zinc1008/easymedia
 nsqio/nsq:v1.2.1
+--platform=linux/arm64/v8 ubuntu:22.04
