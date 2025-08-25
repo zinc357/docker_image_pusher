@@ -3,11 +3,13 @@
 alpine
 openjdk:8u102-jdk
 nginx
+--platform=linux/arm64/v8 nginx
 nacos/nacos-server
 nacos/nacos-server:v2.0.4
-nacos/nacos-server:2.0.4-slim
+--platform=linux/arm64 nacos/nacos-server:2.0.4-slim
 minio/minio
 redis
+--platform=linux/arm64/v8 redis
 mysql:8
 --platform=linux/arm64 mysql:8
 mysql:5.7.44
