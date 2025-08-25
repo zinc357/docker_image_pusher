@@ -5,6 +5,7 @@ openjdk:8u102-jdk
 nginx
 nacos/nacos-server
 nacos/nacos-server:v2.0.4
+nacos/nacos-server:2.0.4-slim
 minio/minio
 redis
 mysql:8
